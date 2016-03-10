@@ -1,0 +1,14 @@
+layout_spectrum: 0.7419355
+typography_spectrum: 0.9570979
+color:
+  saturation: 0.7526882
+  lightness: 0.7634408
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#012D74'
+    - '#01A5D0'
+    - '#010101'
+    - '#FF2F2A'
+  rhythmicContrast: 0.6474734
+name: karpostechnologies

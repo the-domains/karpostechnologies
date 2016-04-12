@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Home]]></title>
+        <description><![CDATA[Home]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 14:01:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We envision a country where all scientists (chemists, laboratory analysts, forensic investigators, pharmacists, to the engineer in an offshore oil refinery - you name it) can have a platform to work together in driving incremental changes through innovation and shared knowledge - Michael Susanto, Founder, Karpos Technologies</p>]]></description>
+            <link>undefinedwe-envision-a-country-where-all-scientists-chemists-labora/index.html</link>
+            <guid isPermaLink="false">c66d0459-e415-4491-b24e-e1349449f547</guid>
+            <pubDate>Tue, 12 Apr 2016 14:01:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
